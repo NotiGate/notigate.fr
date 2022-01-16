@@ -1,2 +1,0 @@
-(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[4],{129:function(s,t,e){"use strict";e.r(t),t.default=e.p+"static/media/new-website.b34c3603.md"}}]);
-//# sourceMappingURL=4.2dd607ee.chunk.js.map

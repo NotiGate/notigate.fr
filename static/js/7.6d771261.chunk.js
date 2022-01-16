@@ -1,0 +1,2 @@
+(this.webpackJsonpnotigate=this.webpackJsonpnotigate||[]).push([[7],{132:function(t,i,s){"use strict";s.r(i),i.default=s.p+"static/media/prisel.b0421df1.md"}}]);
+//# sourceMappingURL=7.6d771261.chunk.js.map

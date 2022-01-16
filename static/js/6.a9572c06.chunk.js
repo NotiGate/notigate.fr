@@ -1,0 +1,2 @@
+(this.webpackJsonpnotigate=this.webpackJsonpnotigate||[]).push([[6],{131:function(t,i,a){"use strict";a.r(i),i.default=a.p+"static/media/notigate.8361714d.md"}}]);
+//# sourceMappingURL=6.a9572c06.chunk.js.map

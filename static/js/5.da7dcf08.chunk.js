@@ -1,2 +1,0 @@
-(this.webpackJsonpbako=this.webpackJsonpbako||[]).push([[5],{130:function(s,t,a){"use strict";a.r(t),t.default=a.p+"static/media/insanehosting.442322d0.md"}}]);
-//# sourceMappingURL=5.da7dcf08.chunk.js.map
